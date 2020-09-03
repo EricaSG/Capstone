@@ -4,7 +4,7 @@
 
 **EDA Blog:** https://medium.com/@gabriel.erica3/x-ray-colorization-and-neural-networks-2cdc578a1d2f?source=friends_link&sk=0479c0ef9b3ab7f817560bf4ef63153f
 
-**Non Technical Presentation:**
+**Non Technical Presentation:** https://youtu.be/c1hmxA5Ed90
 
 ## Purpose
 At times, the evidence of pneumonia may be in a portion of the lung that is not easily seen by the standard x-ray. 
