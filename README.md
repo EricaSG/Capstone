@@ -1,4 +1,4 @@
-<img src="/InLivingColorlogo.jpg">
+# X-Ray Colorization & Nueral Networks
 
 **Techinal Blog:** https://medium.com/analytics-vidhya/treating-overfitting-in-cnns-1f68c57f57b2
 
