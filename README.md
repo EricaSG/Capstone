@@ -7,7 +7,7 @@
 **Non Technical Presentation:** https://youtu.be/c1hmxA5Ed90
 
 ## Purpose
-At times, the evidence of pneumonia may be in a portion of the lung that is not easily seen by the standard x-ray. The misdiagnosis of pneumonia delays treatment and can results in long term disability or death. This study aims to prove that if X-ray images are colorized, the rate of misdiagnosis (and complications associated) will decrease. This project is an expansion of Deep Learning & Pneumonia Detection https://github.com/EricaSG/Mod4Project
+At times, the evidence of pneumonia may be in a portion of the lung that is not easily seen by the standard x-ray. The misdiagnosis of pneumonia delays treatment and can results in long term disability or death. This study aims to prove that if X-ray images are colorized, the rate of misdiagnosis (and complications associated) will decrease. This project is an expansion of Deep Learning & Pneumonia Detection https://github.com/EricaSG/Projects/tree/master/Xray_Classification
 
 
 ## Background and Description of Data
