@@ -11,7 +11,7 @@ At times, the evidence of pneumonia may be in a portion of the lung that is not 
 
 
 ## Background and Description of Data
-The x-rays were provided by the Guangzhou Women and Children’s Medical Center in Guangzhou, China, on patients ranging from ages 1–5 years old.The image set contains images of “Normal”, “Viral” & “Bacterial” Pneumonia, classified into 2categories: “Normal”and “Pneumonia”. There were initially 1341 Normal scans and 3875 Pneumonia scans. All unreadable and poor 
+The x-rays were provided by the Guangzhou Women and Children’s Medical Center in Guangzhou, China, on patients ranging from ages 1–5 years old.The image set contains images of “Normal”, “Viral” & “Bacterial” Pneumonia, classified into 2 categories: “Normal”and “Pneumonia”. There were initially 1341 Normal scans and 3875 Pneumonia scans. All unreadable and poor 
 quality scans were removed prior to providing the dataset. 
 Files: 
 * Train- The set of images to be used for training
@@ -110,5 +110,5 @@ This model was used on the test set which produced the following metrics:
 <img src='plotacc_color.png'>
 
 ## Conclusion
-The graysclae dataset was more computationally expensive to build and train. The models took an average of 30 minutes to an hour to run, doing only 22 epochs. The grayscale models caused me to use nearly all of my local and google drive storage. The colorized models ran for 100 epochs and took approximately 1 minute to run. The dataset overall did not require much tuning/or massaging 
+The grayscale dataset was more computationally expensive to build and train. The models took an average of 30 minutes to an hour to run, doing only 22 epochs. The grayscale models caused me to use nearly all of my local and google drive storage. The colorized models ran for 100 epochs and took approximately 1 minute to run. The dataset overall did not require much tuning/or massaging 
 compared to the grayscale dataset. Validation Accuracy of the colorized model was 99.9%, about 13% higher than the grayscale set. Therefore if computer vision is going to be considered in detection and early diagnosis of pneumonia and similar illnesses, then research funding should be set aside to fund hardware and software developments that produce colorized and perhaps even 3D image scans.
