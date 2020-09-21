@@ -1,6 +1,6 @@
 # X-Ray Colorization & Neural Networks
 
-**Techinal Blog:** https://medium.com/analytics-vidhya/treating-overfitting-in-cnns-1f68c57f57b2
+**Technical Blog:** https://medium.com/analytics-vidhya/how-to-treat-overfitting-in-convolutional-neural-networks-d6e74a0a479?source=friends_link&sk=b0b1ebe1e157ae4e0aae37118d17fb66
 
 **EDA Blog:** https://medium.com/@gabriel.erica3/x-ray-colorization-and-neural-networks-2cdc578a1d2f?source=friends_link&sk=0479c0ef9b3ab7f817560bf4ef63153f
 
